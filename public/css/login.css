@@ -1,0 +1,47 @@
+.login-container{
+    width: 600px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    border: 1px solid gainsboro;
+    text-align: center;
+    flex-wrap: wrap;
+    border-radius: 4px;
+}
+
+.input-box{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.input-box input{
+    padding: 8px;
+}
+
+.input-wrap{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#button-box{
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+#button-box button{
+    width: 185px;
+    padding: 7px;
+    background-color:deepskyblue;
+    border: 1px solid gainsboro;
+    border-radius: 4px;
+    color: white;
+ }
+
+ #naver-login-button{
+    background-color: #03C75A !important;
+ }

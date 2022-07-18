@@ -1,0 +1,46 @@
+.registeration-container{
+    width: 800px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    border: 1px solid gainsboro;
+    text-align: center;
+    flex-wrap: wrap;
+    border-radius: 4px;
+}
+
+.input-box{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.input-wrap{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.line{
+    width: 100%;
+    border: 1px solid gainsboro;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+
+#button-box{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#button-box button{
+    padding: 7px;
+    width: 150px;
+    border: 1px solid gainsboro;
+    border-radius: 4px;
+    color: white;
+    background-color:deepskyblue;
+}
